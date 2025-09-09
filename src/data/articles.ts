@@ -55,39 +55,7 @@ export const articles: Article[] = [
       "vida"
     ],
     "conteudo": "Conteúdo em desenvolvimento..."
-  },
-  {
-    "id": "teste",
-    "titulo": "teste",
-    "descricao": "teste",
-    "data": "09/09/2025",
-    "autor": "Felipe Castro",
-    "link": "/loucuras/teste",
-    "conteudo": "teste",
-    "publicado": true,
-    "tags": []
-  },
-  {
-    "titulo": "Teste Automático",
-    "descricao": "Teste de geração automática",
-    "conteudo": "Este é um teste de geração automática de páginas.",
-    "publicado": true,
-    "id": "teste-automtico",
-    "link": "/loucuras/teste-automtico",
-    "data": "09/09/2025",
-    "autor": "Felipe Castro"
-  },
-  {
-    "id": "teste2",
-    "titulo": "teste2",
-    "descricao": "teste 2",
-    "data": "09/09/2025",
-    "autor": "Felipe Castro",
-    "link": "/loucuras/teste2",
-    "conteudo": "teste 2",
-    "publicado": true,
-    "tags": []
-  }
+  } 
 ];
 
 export function getPublishedArticles(): Article[] {
