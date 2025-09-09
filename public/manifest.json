@@ -1,0 +1,18 @@
+{
+  "name": "Felipe Castro - Escritos para minha posteridade",
+  "short_name": "Felipe Castro",
+  "description": "Aqui eu compartilho escritos que eu pretendo ler no futuro e dar boas risadas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
+
